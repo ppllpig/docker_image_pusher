@@ -6,6 +6,7 @@ ngc7331/derper:latest
 yisier1/nps:latest
 tailscale/tailscale
 containrrr/watchtower
-hezhijie0327/cloudflareddns
+#hezhijie0327/cloudflareddns
+fredliang/derper
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
