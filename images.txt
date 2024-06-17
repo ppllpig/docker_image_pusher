@@ -8,5 +8,6 @@ tailscale/tailscale
 containrrr/watchtower
 #hezhijie0327/cloudflareddns
 fredliang/derper
+neilpang/acme.sh
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
