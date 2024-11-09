@@ -11,5 +11,6 @@ fredliang/derper
 neilpang/acme.sh
 iarekylew00t/caddy-cloudflare
 zouyq/derper
+containrrr/watchtower
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
