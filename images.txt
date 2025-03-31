@@ -12,7 +12,7 @@ neilpang/acme.sh
 iarekylew00t/caddy-cloudflare
 zouyq/derper
 easytier/easytier:latest
-vaultwarden/server:latest
+vaultwarden/server:latest-alpine
 jiangrui1994/cloudsaver:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
