@@ -15,5 +15,7 @@ easytier/easytier:latest
 vaultwarden/server:latest-alpine
 jiangrui1994/cloudsaver:latest
 qdtoday/qd:latest
+jellyhai/alist-mixfileweb:1.0
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
