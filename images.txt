@@ -18,5 +18,6 @@ qdtoday/qd:latest
 jellyhai/alist-mixfileweb:1.0
 ghcr.io/krau/saveany-bot:latest
 akimio/autofilm
+itefuir/alist-strm:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
