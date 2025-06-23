@@ -4,6 +4,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
 ngc7331/derper:latest
 yisier1/nps:latest
+yisier1/npc:latest
 tailscale/tailscale
 containrrr/watchtower
 #hezhijie0327/cloudflareddns
