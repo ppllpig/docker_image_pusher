@@ -23,5 +23,6 @@ itefuir/alist-strm:latest
 dr34m/tao-sync
 xjxjin/alist-sync:latest
 openlistteam/openlist:beta
+certimate/certimate:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
