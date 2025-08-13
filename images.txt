@@ -26,6 +26,7 @@ openlistteam/openlist:beta
 certimate/certimate:latest
 lscr.io/linuxserver/duplicati:latest
 heavrnl/telegramforwarder:latest
+ghcr.io/snailyp/gemini-balance:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
