@@ -23,7 +23,6 @@ dr34m/tao-sync
 xjxjin/alist-sync:latest
 openlistteam/openlist:beta
 certimate/certimate:latest
-lscr.io/linuxserver/duplicati:latest
 heavrnl/telegramforwarder:latest
 ghcr.io/snailyp/gemini-balance:latest
 6053537/portainer-ce:latest
