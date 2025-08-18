@@ -27,7 +27,6 @@ lscr.io/linuxserver/duplicati:latest
 heavrnl/telegramforwarder:latest
 ghcr.io/snailyp/gemini-balance:latest
 6053537/portainer-ce:latest
-ppllpig/mixfilecli
 ppllpig/mixfile
 
 #支持指定架构
