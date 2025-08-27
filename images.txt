@@ -21,7 +21,7 @@ akimio/autofilm
 itefuir/alist-strm:latest
 dr34m/tao-sync
 xjxjin/alist-sync:latest
-openlistteam/openlist:beta
+openlistteam/openlist:latest
 certimate/certimate:latest
 heavrnl/telegramforwarder:latest
 ghcr.io/snailyp/gemini-balance:latest
