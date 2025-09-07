@@ -29,6 +29,8 @@ ghcr.io/snailyp/gemini-balance:latest
 ppllpig/mfile
 amtoaer/bili-sync-rs:latest
 qq1582185982/bili-sync
+adminer:latest
+lscr.io/linuxserver/mariadb:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
