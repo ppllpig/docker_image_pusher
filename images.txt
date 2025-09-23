@@ -1,6 +1,5 @@
 nginx
 #支持私库
-xhofe/alist:latest
 ngc7331/derper:latest
 yisier1/nps:latest
 yisier1/npc:latest
