@@ -31,6 +31,7 @@ qq1582185982/bili-sync
 adminer:latest
 mariadb:latest
 esme518/docker-lx-music-sync-server
+lanol/filecodebox:beta
 
 
 #支持指定架构
