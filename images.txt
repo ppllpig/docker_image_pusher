@@ -32,7 +32,7 @@ adminer:latest
 mariadb:latest
 esme518/docker-lx-music-sync-server
 lanol/filecodebox:beta
-
+asdlokj1qpi23/subconverter:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
