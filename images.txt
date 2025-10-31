@@ -40,6 +40,7 @@ mouday/domain-admin:latest
 netcccyun/dnsmgr
 ttionya/vaultwarden-backup:latest
 wbsu2003/paint-board
+pubuzhixing/drawnix:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
