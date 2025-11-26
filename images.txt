@@ -46,6 +46,7 @@ gdy666/lucky
 linkease/kspeeder:latest
 ghcr.io/katelya77/katelyatv:latest
 ghcr.io/decohererk/decotv:latest
+apache/kvrocks
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
