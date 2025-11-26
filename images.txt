@@ -44,7 +44,7 @@ pubuzhixing/drawnix:latest
 chat2db/chat2db:latest
 gdy666/lucky
 linkease/kspeeder:latest
-ghcr.io/lunatechlab/moontv:latest
+ghcr.io/katelya77/katelyatv:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
