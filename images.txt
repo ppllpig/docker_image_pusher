@@ -47,6 +47,7 @@ linkease/kspeeder:latest
 ghcr.io/katelya77/katelyatv:latest
 ghcr.io/decohererk/decotv:latest
 apache/kvrocks
+ghcr.io/tbphp/gpt-load:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
