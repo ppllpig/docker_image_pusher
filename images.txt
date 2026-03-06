@@ -42,7 +42,7 @@ ttionya/vaultwarden-backup:latest
 wbsu2003/paint-board
 pubuzhixing/drawnix:latest
 chat2db/chat2db:latest
-gdy666/lucky
+gdy666/lucky:v2
 linkease/kspeeder:latest
 ghcr.io/katelya77/katelyatv:latest
 ghcr.io/decohererk/decotv:latest
